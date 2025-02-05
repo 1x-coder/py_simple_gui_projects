@@ -1,0 +1,7 @@
+PySimpleGUI
+pyrebase4
+pyAesCrypt
+requests
+pandas
+pyperclip
+cryptography
